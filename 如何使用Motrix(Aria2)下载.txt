@@ -1,0 +1,18 @@
+Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源。
+基于开源下载工具Aria2开发的桌面应用，界面简洁易用。
+
+官网下载地址：https://motrix.app/
+
+国内镜像加速下载：
+
+Windows	https://cowtransfer.com/s/3eb75010639b44
+Mac	https://cowtransfer.com/s/5a71a256bf4d4e
+Mac M1芯片	https://cowtransfer.com/s/b200d6331d5145
+
+
+正常下载后安装即可。
+开始下载之前，切记先打开Motrix下载工具。
+
+优点：
+1、对浏览器没有任何版本要求，支持所有浏览器。
+2、飞一般的下载速度和下载体验。
